@@ -2,7 +2,7 @@
 title: 我的第一篇文章
 ---
 
-# {{ page.title }}
+# 我的第一篇文章
 
 ## 目录
 + [第一部分](#partI)
@@ -30,4 +30,4 @@ title: 我的第一篇文章
 
 这里是第三部分的内容
 
-{{ page.date|date_to_string }}
+2018-09-02_transaction.md
