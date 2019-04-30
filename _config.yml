@@ -1,5 +1,3 @@
-#baseurl:/blog.github-io.git
-deploy:
-  type: git
-  repository: https://github.com/four-qf/blog.github-io.git
-  branch: master
+baseurl:/blog.github-io.git
+permalink:_posts/my_2018.html
+permalink:_posts/mac.md
