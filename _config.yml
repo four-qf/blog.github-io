@@ -1,1 +1,5 @@
-baseurl:/blog.github-io.git
+#baseurl:/blog.github-io.git
+deploy:
+  type: git
+  repository: https://github.com/four-qf/blog.github-io.git
+  branch: master
